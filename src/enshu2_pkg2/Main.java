@@ -12,7 +12,7 @@ public class Main {
 		System.out.println(n1.getMei());
 		
 		Scanner sc1 = new Scanner(System.in);
-		System.out.print("入力 ＞");	
+		System.out.print("入力   ＞");	
 		String t1 = sc1.nextLine();
 		System.out.println(t1);
 		sc1.close();
